@@ -18,6 +18,9 @@ faiss-cpu==1.7.4
 motor==3.3.2
 pymongo==4.6.1
 redis==5.0.1
+sentence-transformers==2.2.2
+huggingface_hub==0.12.0
+tenacity==8.2.2
 
 prometheus-fastapi-instrumentator==6.1.0
 python-json-logger==2.0.7
